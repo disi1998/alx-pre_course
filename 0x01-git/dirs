@@ -6,4 +6,5 @@ touch js/index.js
 echo "#!/bin/bash" > bash/alx
 echo 'echo "ALX"' >> bash/alx
 
-echo '#!/bin/bash\necho "School"' > bash/school
+echo '#!/bin/bash' > bash/school
+echo 'echo "School"' >> bash/school
