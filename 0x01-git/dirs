@@ -1,6 +1,15 @@
 #!/bin/bash
+<<<<<<< HEAD
 
 echo '#!/bin/bash' > bash/alx
 echo 'echo "ALX School is so cool!"' >> bash/alx
 
 rm -r js
+=======
+touch bash/98
+echo '#!/bin/bash' > bash/alx
+echo 'echo "ALX School"' >> bash/alx
+
+echo '#!/bin/bash' > bash/school
+echo 'echo "The school is open!"' >> bash/school
+>>>>>>> origin/update_script
